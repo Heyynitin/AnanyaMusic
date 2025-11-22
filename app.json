@@ -54,7 +54,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/ZoxxOP/AnanyaMusic",
+      "value": "https://github.com/heyynitin/AnanyaMusic",
       "required": false
     },
     "STRING_SESSION": {
